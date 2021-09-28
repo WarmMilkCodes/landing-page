@@ -1,0 +1,23 @@
+body {
+    background-color: #FFFFFF;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+.navbar {
+    display: flex;
+    padding: 20px, 0px, 20px, 10px;
+    align-items: center;
+}
+
+.header-logo img {
+    width: 300px;
+    height: 300px;
+    margin-right: auto;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
